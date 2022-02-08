@@ -8,6 +8,6 @@ Added hotfix.
 
 This is text added under feature-02 branch.
 
-Made some more changes on Main.
+Made some more changes on Main. Like this one.
 
 Adding some feature-03 text.
