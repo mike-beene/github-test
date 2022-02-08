@@ -15,3 +15,5 @@ Adding from the main branch once.
 Adding from the main branch twice.
 
 Adding some feature-03 text.
+
+Adding feature-04 here.
